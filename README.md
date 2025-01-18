@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## image tag
-<img src="cube.png.gif" alt="Random Image">
+<img src="https://cdn.pixabay.com/animation/2024/08/31/14/03/14-03-03-630_512.gif">
